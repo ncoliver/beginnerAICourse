@@ -18,20 +18,11 @@ By the end, you’ll understand how AI “thinks,” makes decisions, and impact
 
 The course is divided into three main sections for a smooth, engaging learning flow:
 
-1. Lessons
-
-Learn the fundamentals of AI and ML through concise, easy-to-follow lessons.
-Each lesson introduces key terminology, processes, and industry-specific use cases to help you build context and confidence.
-
-2. Video Presentations
-
-Engaging videos bring abstract concepts to life with visuals, examples, and explanations.
-These sessions connect theory to real-world practice, helping you understand how AI applies across different domains.
-
-3. Walkthroughs
-
-Step-by-step coding and concept walkthroughs show you how AI works in action.
-You’ll experiment with both supervised and unsupervised learning, exploring goals, strategies, and real-world applications.
+| Course Section | Description |
+| ----------- | ----------- |
+| Lessons | Learn the fundamentals of AI and ML through concise, easy-to-follow lessons. Each lesson introduces key terminology, processes, and industry-specific use cases to help you build context and confidence. |
+| Video Presentations | Engaging videos bring abstract concepts to life with visuals, examples, and explanations.These sessions connect theory to real-world practice, helping you understand how AI applies across different domains. |
+| Code Walkthroughs | Step-by-step coding and concept walkthroughs show you how AI works in action.You’ll experiment with both supervised and unsupervised learning, exploring goals, strategies, and real-world applications. |
 
 ### 🧩 Capstone Project
 
