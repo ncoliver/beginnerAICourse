@@ -59,7 +59,7 @@ All course materials, code samples, and datasets are available on GitHub.
 For additional resources, updates, and learning support, visit our official course website:
 🌐 Visit the Website
 
-🚀 Get Started
+### 🚀 Get Started
 
 Clone this repository.
 
