@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1DKJoJkaLbUiPq4GMRnq7B7UwAOfblfFI
 """
 
-!pip install transformers datasets peft accelerate gradio
+# Required Libraries: !pip install transformers datasets peft accelerate gradio
 
 # ✅ 2️⃣ Imports
 from transformers import AutoModelForCausalLM, AutoTokenizer, TrainingArguments, Trainer
