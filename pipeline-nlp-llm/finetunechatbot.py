@@ -15,16 +15,21 @@ from datasets import load_dataset
 from peft import LoraConfig, get_peft_model
 import torch
 import gradio as gr
+import os
+
+hf_token = os.getenv("HUGGINGFACE_HUB_TOKEN")
+
 
 # ✅ 3️⃣ Load model and tokenizer
 model_name = "tiiuae/falcon-1b-instruct"
-tokenizer = AutoTokenizer.from_pretrained(model_name)
+tokenizer = AutoTokenizer.from_pretrained(model_name, hf_token)
 tokenizer.pad_token = tokenizer.eos_token   # important for padding
 
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
     torch_dtype=torch.float32,
-    device_map="cpu"
+    device_map="cpu", 
+    token=hf_token,
 )
 
 # ✅ 4️⃣ Load and preprocess dataset
@@ -89,9 +94,9 @@ from peft import PeftModel
 base_model_name = "tiiuae/falcon-1b-instruct"
 
 # Load base model + tokenizer
-tokenizer = AutoTokenizer.from_pretrained(base_model_name)
+tokenizer = AutoTokenizer.from_pretrained(base_model_name, token=hf_token)
 base_model = AutoModelForCausalLM.from_pretrained(
-    base_model_name, device_map="auto", torch_dtype="auto"
+    base_model_name, token=hf_token, device_map="auto", torch_dtype="auto"
 )
 
 # Load adapter (now exists!)
