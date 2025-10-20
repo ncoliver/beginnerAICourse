@@ -1,0 +1,342 @@
+[
+    {
+        "topic": "Shooting Fundamentals",
+        "question": "What makes a great shooter?",
+        "answer": "A great shooter trains with a defined, repeatable process, understanding each mechanical step from legs to release. Their shot is built for game situations \u2014 quick, balanced, and adaptable, not just set shooting. The three key elements are power from legs, arc from form, and control from release.",
+        "objectivity_score": 0.9,
+        "metadata": {
+            "category": "Fundamentals",
+            "subtopics": [
+                "shooting",
+                "mechanics",
+                "training"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Elite Defense",
+        "question": "What separates elite defenders from average ones?",
+        "answer": "Elite defenders master fundamentals: stance, footwork, and positioning. They anticipate offensive moves, use controlled steps, and aim to force low-percentage shots. Mentally, they understand the opponent\u2019s tendencies and strategically dictate outcomes.",
+        "objectivity_score": 0.93,
+        "metadata": {
+            "category": "Defense",
+            "subtopics": [
+                "stance",
+                "anticipation",
+                "technique"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Offensive IQ",
+        "question": "What defines a high basketball IQ player on offense?",
+        "answer": "A high IQ player combines skill with vision. They control the ball while seeing the entire floor, recognizing opportunities and making progressive decisions that move the offense toward scoring. Their skillset enables smart reactions under defensive pressure.",
+        "objectivity_score": 0.88,
+        "metadata": {
+            "category": "Offense",
+            "subtopics": [
+                "decision-making",
+                "vision",
+                "awareness"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Leadership",
+        "question": "What makes a great team leader?",
+        "answer": "A great leader sets the example in effort, attitude, and responsibility. They are an extension of the coach\u2019s vision, keeping teammates aligned, boosting morale, and providing stability. They value accountability, empathy, and foresight.",
+        "objectivity_score": 0.87,
+        "metadata": {
+            "category": "Leadership",
+            "subtopics": [
+                "team",
+                "motivation",
+                "accountability"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Player Development",
+        "question": "What\u2019s the most effective long-term path for development?",
+        "answer": "Long-term players build from fundamentals, repeating correct methods until second nature. Growth comes from mastering the right way, understanding the game\u2019s principles, and responding instinctively under pressure.",
+        "objectivity_score": 0.92,
+        "metadata": {
+            "category": "Development",
+            "subtopics": [
+                "training",
+                "fundamentals",
+                "growth"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Coaching Philosophy",
+        "question": "What defines a great coach?",
+        "answer": "A great coach measures success by player and system development, not just wins. They build a system independent of talent, capable of teaching and adapting. They take responsibility for team growth and emphasize process over results.",
+        "objectivity_score": 0.9,
+        "metadata": {
+            "category": "Coaching",
+            "subtopics": [
+                "coaching",
+                "systems",
+                "responsibility"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Game Preparation",
+        "question": "How should players prepare mentally and physically for games?",
+        "answer": "Players should understand the opponent, system goals, and personal roles. Physically, they should simulate in-game actions in warmups\u2014dribbling, shooting, and movement\u2014until comfortable with the game environment.",
+        "objectivity_score": 0.91,
+        "metadata": {
+            "category": "Preparation",
+            "subtopics": [
+                "mental",
+                "warmup",
+                "strategy"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "System Design",
+        "question": "What makes a great basketball system?",
+        "answer": "A great system operates independently of player talent. It adapts dynamically, organizes motion on offense and containment on defense, and ensures every role is defined, progressive, and aligned with core fundamentals.",
+        "objectivity_score": 0.94,
+        "metadata": {
+            "category": "Systems",
+            "subtopics": [
+                "offense",
+                "defense",
+                "adaptability"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Player Roles",
+        "question": "How should players determine and maximize their role?",
+        "answer": "Players define roles based on skill level and team need. They add value by mastering their main responsibilities and contributing secondary ones\u2014expanding their reliability and importance within the system.",
+        "objectivity_score": 0.9,
+        "metadata": {
+            "category": "Team Dynamics",
+            "subtopics": [
+                "roles",
+                "responsibility",
+                "team fit"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Decision-Making Under Pressure",
+        "question": "How do players make smart decisions under pressure?",
+        "answer": "Players who anticipate pressure and stay composed make better choices. Awareness, vision, and experience allow them to manage space and timing effectively. Pressure response can be trained through situational realism in practice.",
+        "objectivity_score": 0.93,
+        "metadata": {
+            "category": "Offense",
+            "subtopics": [
+                "pressure",
+                "awareness",
+                "training"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Defensive IQ",
+        "question": "What defines defensive IQ?",
+        "answer": "Defensive IQ is understanding all defensive schemes\u20141v1, team, zone, and press\u2014and how individual positioning affects the whole. High-IQ defenders anticipate plays and maintain alignment with team objectives.",
+        "objectivity_score": 0.9,
+        "metadata": {
+            "category": "Defense",
+            "subtopics": [
+                "iq",
+                "team defense",
+                "anticipation"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Mindset & Growth",
+        "question": "What mindset separates continuous learners from stagnant players?",
+        "answer": "Growth requires the right reason for improvement\u2014commitment to mastering the game\u2019s principles. Motivation must align with learning and applying basketball\u2019s structure, not superficial goals or external rewards.",
+        "objectivity_score": 0.85,
+        "metadata": {
+            "category": "Psychology",
+            "subtopics": [
+                "mindset",
+                "motivation",
+                "learning"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Scouting & Evaluation",
+        "question": "What should coaches prioritize when evaluating players?",
+        "answer": "Coaches must assess how talent fits into the system. Mentality, fundamentals, and adaptability often outweigh raw stats. Evaluating response to competition and structure reveals long-term value.",
+        "objectivity_score": 0.88,
+        "metadata": {
+            "category": "Scouting",
+            "subtopics": [
+                "evaluation",
+                "mentality",
+                "fit"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Training Design",
+        "question": "What makes an effective basketball training session?",
+        "answer": "Effective sessions build progressively from basics to game-speed drills. Training must stay detailed, structured, and repetitive\u2014turning correct technique into instinct through consistent, intense focus.",
+        "objectivity_score": 0.93,
+        "metadata": {
+            "category": "Training",
+            "subtopics": [
+                "structure",
+                "progression",
+                "repetition"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Team Chemistry",
+        "question": "How is true team chemistry built and maintained?",
+        "answer": "True chemistry develops through shared experiences and system design. Leaders must manage hierarchy, role clarity, and responsibility. Chemistry thrives when structure and accountability align.",
+        "objectivity_score": 0.89,
+        "metadata": {
+            "category": "Team Dynamics",
+            "subtopics": [
+                "chemistry",
+                "leadership",
+                "structure"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Film Study",
+        "question": "How should teams use film study effectively?",
+        "answer": "Film study should explain system behavior, not isolate errors. Reviewing sequences within system context strengthens understanding, reinforces progress, and prevents culture breakdowns from misused critique.",
+        "objectivity_score": 0.92,
+        "metadata": {
+            "category": "Analysis",
+            "subtopics": [
+                "film",
+                "review",
+                "system"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Handling Adversity",
+        "question": "How should teams respond to adversity?",
+        "answer": "Teams overcome adversity by trusting their system and leadership. Coaches must face reality, communicate openly, and apply basketball\u2019s core principles to resolve issues and maintain progression.",
+        "objectivity_score": 0.9,
+        "metadata": {
+            "category": "Mindset",
+            "subtopics": [
+                "adversity",
+                "leadership",
+                "trust"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Basketball Analytics",
+        "question": "How should analytics be used in basketball?",
+        "answer": "Analytics provide insight but depend on input quality. They\u2019re best used for recruiting and filtering talent, while video and observation confirm fit, mentality, and adaptability.",
+        "objectivity_score": 0.86,
+        "metadata": {
+            "category": "Analytics",
+            "subtopics": [
+                "data",
+                "recruiting",
+                "evaluation"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Transition Basketball",
+        "question": "What are the principles of effective transition play?",
+        "answer": "Transition offense should be purposeful, not constant. It\u2019s most effective when built from an advantage and executed with timing and spacing to generate high-percentage opportunities.",
+        "objectivity_score": 0.91,
+        "metadata": {
+            "category": "Offense",
+            "subtopics": [
+                "transition",
+                "spacing",
+                "timing"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    },
+    {
+        "topic": "Future of Basketball",
+        "question": "Where is the future of basketball headed?",
+        "answer": "The game\u2019s future will balance between commercial expansion and rediscovering competitive purity. A future spark may come from renewed focus on fundamentals and purpose over profit.",
+        "objectivity_score": 0.7,
+        "metadata": {
+            "category": "Trends",
+            "subtopics": [
+                "future",
+                "evolution",
+                "culture"
+            ],
+            "source": "Basketball Knowledge Dataset v1",
+            "author": "User",
+            "date_created": "2025-10-19"
+        }
+    }
+]
